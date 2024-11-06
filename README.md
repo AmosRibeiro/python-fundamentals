@@ -1,2 +1,2 @@
-# python-fundamentals
- estudo de python
+# Python Fundamentals
+ Estudo de fundamentos em Python.
